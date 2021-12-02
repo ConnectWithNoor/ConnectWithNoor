@@ -76,7 +76,7 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/connectwithnoor/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/ios/50/000000/filled-message.png"/></a>
+<a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/ios-filled/50/ffffff/filled-message.png"/></a>
 
 </p>
 
