@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/LstB1su.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iIvkWWr.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Noor Muhammad</h1>
 <h3 align="center">Passionate Full Stack JavaScript Developer with 3 years of experience working with ReactJS | NodeJS | ExpressJS | MongoDB.</h3>
