@@ -76,7 +76,7 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/connectwithnoor/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href="mailto:hello@connectwithnoor.dev"><img src="https://img.icons8.com/ios-filled/45/ffffff/filled-message.png"/></a>
+<a href="mailto:connectwithnoor1@gmail.com"><img src="https://img.icons8.com/ios-filled/45/ffffff/filled-message.png"/></a>
 
 </p>
 
