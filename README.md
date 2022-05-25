@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/ConnectWithNoor)**
 
-- 📫 How to reach me **hello@connectwithnoor.dev**
+- 📫 How to reach me **connectwithnoor1@gmail.com**
 
 - ⚡ Fun fact **I can eat and code simultaneously 😂**
 
