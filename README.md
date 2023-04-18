@@ -1,18 +1,16 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iIvkWWr.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Noor Muhammad</h1>
-<h3 align="center">Passionate Full Stack JavaScript Developer with 3 years of experience working with ReactJS | NodeJS | ExpressJS | MongoDB.</h3>
+<h3 align="center">Passionate Full Stack Web Application Developer with 3 years of experience working with ReactJS | NextJS | NodeJS | PostGres | MongoDB | AWS and more.</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Full Stack Applications**
+- 🔭 I’m currently learning about **Web 3 and Blockchain Development**
 
-- 🌱 I’m currently learning **Backend and Blockchain Technologies**
+- ✨ Favorite Stack: **TypeScript, NextJs, Mongo/Postgres, AWS**
 
-- ✨ Favorite Stack: **TypeScript, React, Node, Express, Mongo**
-
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/ConnectWithNoor)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://www.connectwithnoor.com/)**
 
 - 📫 How to reach me **connectwithnoor1@gmail.com**
 
