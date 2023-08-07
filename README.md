@@ -1,38 +1,31 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/XxSOlAl.jpg" height="175px"/></a>
+<a href="https://www.connectwithnoor.com/"><img width="100%" height="auto" src="https://media.licdn.com/dms/image/D4D16AQEVtg-2xtKUPw/profile-displaybackgroundimage-shrink_350_1400/0/1658935182014?e=1697068800&v=beta&t=W5SQ4Ltudm548NT8JY4HTQ85V54U0K-6FnIAs4Nd8oE"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Noor Muhammad</h1>
-<h3 align="center">Passionate Full Stack Web Application Developer with 3 years of experience working with ReactJS | NextJS | NodeJS | PostGres | MongoDB | AWS and more.</h3>
-
+<h3 align="center">Software Developer | 💻 JS, TS, Reactjs, Nextjs, Redux, Webpack, EsLint 🥇Frontend Specialist</h3>
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently learning about **Web 3 and Blockchain Development**
+I am an experienced software engineer with background of computer science. With over 3 years of experience, I have a love for creating new and innovative solutions. I've had the opportunity to work in both software service and product environments, and I truly enjoy the diversity and challenges that come with each project. 
 
-- ✨ Favorite Stack: **TypeScript, NextJs, Mongo/Postgres, AWS**
+My expertise lies in creating cutting-edge technologies such as JavaScript, TypeScript, React.js, Redux, Next.js, Node.js, Redis, MongoDB and so on. Throughout my career, I have excelled in fast-paced environments and have had the opportunity to collaborate with European and US-based companies across industries.
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://www.connectwithnoor.com/)**
+I am always open to new opportunities and would love to connect and see how we can work together to build something great! Let's connect on:
 
-- 📫 How to reach me **connectwithnoor1@gmail.com**
-
-- ⚡ Fun fact **I can eat and code simultaneously 😂**
+Website: https://connectwithnoor.com
+Email: connectwithnoor1@gmail.com
 
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
     <img src="https://img.icons8.com/color/50/000000/typescript.png"/>
     <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-    <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
     <img src="https://img.icons8.com/color/48/000000/html-5.png"/> 
     <img src="https://img.icons8.com/color/48/000000/css3.png"/> 
     <img src="https://avatars.githubusercontent.com/u/10566080?s=40&v=4" /> 
     <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>  
     <img src="https://img.icons8.com/color/48/000000/gatsbyjs.png"/> 
-    <img src="https://avatars.githubusercontent.com/u/17189275?s=40&v=4"/> 
     <img src="https://img.icons8.com/color/48/000000/material-ui.png"/> 
     <img src="https://avatars.githubusercontent.com/u/12101536?s=40&v=4"/> 
-    <img src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/graphql/graphql.png" height="40"/> 
-    <img src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" height="40"/>
-    <img src="https://raw.githubusercontent.com/github/explore/08e8077e6cd7375c007c6fd6ac8cced5d7738494/topics/google-cloud/google-cloud.png" height="40"/>
     <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
     <img src="https://avatars.githubusercontent.com/u/10566080?s=200&v=4" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> 
