@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-I am an experienced software engineer with background of computer science. With over 3 years of experience, I have a love for creating new and innovative solutions. I've had the opportunity to work in both software service and product environments, and I truly enjoy the diversity and challenges that come with each project. 
+I am an experienced software engineer with background of computer science. With over 2 years of experience, I have a love for creating new and innovative solutions. I've had the opportunity to work in both software service and product environments, and I truly enjoy the diversity and challenges that come with each project. 
 
 My expertise lies in creating cutting-edge technologies such as JavaScript, TypeScript, React.js, Redux, Next.js, Node.js, Redis, MongoDB and so on. Throughout my career, I have excelled in fast-paced environments and have had the opportunity to collaborate with European and US-based companies across industries.
 
