@@ -68,21 +68,6 @@ With over **5+ years of experience**, I’ve helped startups and enterprises ide
 
 ---
 
-## 🔧 Tools & Technologies
-
-<p align="left">
-  <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-  <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-  <img src="https://img.icons8.com/color/48/000000/python.png"/>
-  <img src="https://img.icons8.com/color/48/000000/docker.png"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-  <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
-  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
-  <img src="https://img.icons8.com/color/48/000000/google-cloud.png"/>
-  <img src="https://img.icons8.com/ios/50/000000/api.png"/>
-</p>
 
 ---
 
