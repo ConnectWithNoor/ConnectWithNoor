@@ -69,19 +69,21 @@ With over **5+ years of experience**, I’ve helped startups and enterprises ide
 ---
 
 
----
-
 ## 📊 GitHub Stats
 
-<p align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
   <a href="https://github.com/ConnectWithNoor">
-    <img alt="Noor Muhammad's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ConnectWithNoor&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+    <img alt="Noor Muhammad's GitHub Stats" 
+         src="https://github-readme-stats.vercel.app/api?username=ConnectWithNoor&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
   </a>
-  <br/>
+
   <a href="https://github.com/ConnectWithNoor">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConnectWithNoor&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+    <img alt="Top Languages" 
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConnectWithNoor&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
   </a>
-</p>
+
+</div>
 
 ---
 
